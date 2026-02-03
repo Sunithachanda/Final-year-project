@@ -11,7 +11,9 @@ Reduce the need for physical switches to enhance hygiene
 
 ⚙️ Technologies & Components Used
 Arduino Uno
+
 IR Proximity Sensors
+
 Relay Modules
 Lights and Fans (Appliances)
 Jumper Wires
