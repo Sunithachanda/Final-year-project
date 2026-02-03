@@ -1,4 +1,3 @@
-Gesture-Based Smart Home Control System
 📌 Project Overview
 
 The Gesture-Based Smart Home Control System is a touch-free home automation solution designed to improve convenience, hygiene, and accessibility. Using gesture recognition through IR proximity sensors and an Arduino Uno, the system allows users to control home appliances such as lights and fans without physical contact.
